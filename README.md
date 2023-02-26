@@ -17,7 +17,7 @@ A Stock Market App using all the lastest Android practices such as Jetpack Compo
 <img src="images/s1.jpg" width=200>    <img src="images/s2.jpg" width=200>
 
 ## 🔥 Features
- - It usesAlphavantage free API to get Stock Market data
+ - It uses Alphavantage free API to get Stock Market data
  - CSV Parser
  
   ## 🛠 Tech Used
